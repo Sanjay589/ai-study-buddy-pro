@@ -1,0 +1,21 @@
+# API Keys and Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Streamlit
+.streamlit/
+
+# Next.js (if any remain)
+.next/
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db

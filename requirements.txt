@@ -1,0 +1,6 @@
+streamlit
+openai
+numpy
+python-dotenv
+tiktoken
+google-generativeai
